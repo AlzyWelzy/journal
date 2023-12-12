@@ -1,6 +1,6 @@
-## **Workout Plan**
+# **Workout Plan**
 
-### **Day 1:**
+## **Day 1:**
 
 - **Cardiovascular Exercise:**
 
@@ -15,7 +15,7 @@
   - Front Raises: 3 sets of 12 reps.
   - Overhead Tricep Extensions: 3 sets of 15 reps.
 
-### **Day 2:**
+## **Day 2:**
 
 - **Cardiovascular Exercise:**
 
@@ -31,7 +31,7 @@
   - Leg Raises: 3 sets of 15 reps.
   - Reverse Crunches: 3 sets of 20 reps.
 
-### **Day 3:**
+## **Day 3:**
 
 - **Cardiovascular Exercise:**
 
@@ -47,7 +47,7 @@
   - Leg Extensions: 3 sets of 12 reps.
   - Leg Curls: 3 sets of 15 reps.
 
-### **Day 4:**
+## **Day 4:**
 
 - **Cardiovascular Exercise:**
 
@@ -63,7 +63,7 @@
   - Skull Crushers: 3 sets of 15 reps.
   - Arnold Press: 3 sets of 12 reps.
 
-### **Day 5:**
+## **Day 5:**
 
 - **Cardiovascular Exercise:**
 
@@ -79,7 +79,7 @@
   - Russian Twists: 3 sets of 20 reps.
   - Side Planks: 3 sets, hold for 30 seconds each side.
 
-### **Day 6:**
+## **Day 6:**
 
 - **Cardiovascular Exercise:**
 
@@ -95,7 +95,7 @@
   - Leg Press Calf Raises: 3 sets of 20 reps.
   - Donkey Kicks: 3 sets of 15 reps.
 
-### **Day 7:**
+## **Day 7:**
 
 - **Full Body Circuit:**
   - Push-Ups: 3 sets of 20 reps.
