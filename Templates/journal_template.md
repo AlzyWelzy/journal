@@ -1,4 +1,4 @@
-# Journal Entry - [12-12-2023]
+# Journal Entry - [DATE]
 
 ## 🌟 Mood:
 
