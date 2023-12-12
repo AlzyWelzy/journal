@@ -1,4 +1,4 @@
-# Journal Entry - [Date]
+# Journal Entry - [12-12-2023]
 
 ## 🌟 Mood:
 
@@ -46,4 +46,4 @@ Choose a positive affirmation or mantra for tomorrow.
 
 ---
 
-_Created by [AlzyWelzy] - [Date]_
+_Created by [AlzyWelzy](https://github.com/AlzyWelzy)._
